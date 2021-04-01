@@ -1,0 +1,15 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://47.110.75.177:3306/ics2?useUnicode=true&characterEncoding=utf-8&useSSL=false
+    username: ics2
+    password: DSNBM6Bx6ak5R86y
+    type: com.alibaba.druid.pool.DruidDataSource
+  jpa:
+    properties:
+      hibernate:
+        show_sql: false
+        format_sql: false
+        ddl-auto: update

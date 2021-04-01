@@ -1,0 +1,24 @@
+#
+#Sat Sep 12 12:54:59 CST 2020
+backen.entity.PublicationWriterEntity=javax.persistence.Entity,javax.persistence.Table
+backen.entity.ResearchEntity=javax.persistence.Entity,javax.persistence.Table
+backen.repository.ResearchRepository=org.springframework.data.repository.Repository
+backen.entity.ProvincialProjectEntity=javax.persistence.Entity,javax.persistence.Table
+backen.repository.StudentRepository=org.springframework.data.repository.Repository
+backen.repository.PublicationWriterRepository=org.springframework.data.repository.Repository
+backen.entity.NationalProjectEntity=javax.persistence.Entity,javax.persistence.Table
+backen.entity.PatentEntity=javax.persistence.Entity,javax.persistence.Table
+backen.repository.PatentRepository=org.springframework.data.repository.Repository
+backen.entity.SoftwareEntity=javax.persistence.Entity,javax.persistence.Table
+backen.entity.PublicationEntity=javax.persistence.Entity,javax.persistence.Table
+backen.entity.TeacherEntity=javax.persistence.Entity,javax.persistence.Table
+backen.repository.NewsRepository=org.springframework.data.repository.Repository
+backen.entity.EngineeringProjectEntity=javax.persistence.Entity,javax.persistence.Table
+backen.repository.PublicationRepository=org.springframework.data.repository.Repository
+backen.repository.SoftwareRepository=org.springframework.data.repository.Repository
+backen.repository.NationalProjectRepository=org.springframework.data.repository.Repository
+backen.repository.TeacherRepository=org.springframework.data.repository.Repository
+backen.repository.EngineeringProjectRepository=org.springframework.data.repository.Repository
+backen.repository.ProvincialProjectRepository=org.springframework.data.repository.Repository
+backen.entity.StudentEntity=javax.persistence.Entity,javax.persistence.Table
+backen.entity.NewsEntity=javax.persistence.Entity,javax.persistence.Table
